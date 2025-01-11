@@ -8,5 +8,5 @@
 MarkDown語法在這邊應用，或是簡單的HTML語法<br>
 <hr>
 呀呀呀~<br>
-[google](google.com)
+[google](www.google.com)<br>
 [google] (www.google.com)
