@@ -13,7 +13,7 @@ MarkDown語法在這邊應用，或是簡單的HTML語法<br>
 
 [yahoo](Http://tw.yahoo.com)
 
-[講義](doc/6_Java EE Application.pdf)
+[講義](doc/6_JavaEEApplication.pdf)
 
 
 <ul type="disk">
