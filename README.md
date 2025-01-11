@@ -33,4 +33,7 @@ MarkDown語法在這邊應用，或是簡單的HTML語法<br>
 <li>Oranges</li>
 </ol>
 
-![巧克力]()
+![巧克力](pic/choc.png)
+
+
+[demo](https://youtu.be/CLaIwJRqCFs?si=-wiL3oQ5MtrSRppj)
