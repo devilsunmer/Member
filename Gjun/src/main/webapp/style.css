@@ -1,0 +1,22 @@
+@charset "UTF-8";
+#title{
+	width:50%;
+	background-color:#B20645;
+	height:150px;
+	margin-left:25%;
+	color:#D09776;
+	
+}
+#content{
+	width:50%;
+	background-color:#F0D1E8;
+	height:400px;
+	margin-left:25%;
+}
+#footer{
+	width:50%;
+	background-color:#630326;
+	height:100px;
+	margin-left:25%;
+	color:#E3F2E8;
+}
