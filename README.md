@@ -1,2 +1,6 @@
 # Member
-Into practice in the class.
+## 課堂練習使用
+### 會員登入系統
+#### CRUD混和練習
+##### 練習
+###### 呀
